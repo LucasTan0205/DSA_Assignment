@@ -1,9 +1,10 @@
 // AVL_Tree.h - AVL functions(Specification)
 #pragma once
 #include<iostream>
+#include "BST.h"
 using namespace std;
 
-#include "BST.h"
+
 
 void balanceTree(BinaryNode*& t);
 

@@ -5,7 +5,6 @@ using namespace std;
 #include "BinaryNode.h"
 #include "AVL_Tree.h"		// AVL Tree functions
 
-
 class BST
 {
 private:

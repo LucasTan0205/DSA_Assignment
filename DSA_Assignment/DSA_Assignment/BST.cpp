@@ -2,6 +2,7 @@
 #include "BST.h"
 #include "BinaryNode.h"
 #include "AVL_Tree.h"
+#include <iostream>
 #define max(x,y) ((x > y)? x : y)
 
 // constructor

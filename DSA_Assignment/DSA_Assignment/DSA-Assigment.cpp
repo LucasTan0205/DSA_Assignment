@@ -1,8 +1,15 @@
 // DSA-Assigment.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-
+using namespace std;
 #include <iostream>
-
+#include "arrayList.h"
+#include "AVL_Tree.h"
+#include "BinaryNode.h"
+#include "BST.h"
+#include "Character.h"
+#include "Queue.h"
+#include "Weapon.h"
+#include "Zombie.h"
 int main()
 {
     std::cout << "Hello World!\n";
